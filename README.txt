@@ -27,8 +27,11 @@ lecture shorthand differs.
 USABILITY FEATURES
 - Source-emphasized thresholds, safety findings, and first-line treatments are bolded.
 - Diagnostic thresholds and clinical recognition, workup, and management now share one unified disorder card.
+- Relevant cards include collapsible high-yield epidemiology, etiology, risk, course, comorbidity, and age-presentation notes from the lecture decks.
 - Count-based diagnostic criteria include collapsible required-symptom checklists.
 - DSM cards with named subtypes or specifiers include a nested, collapsible definition guide.
+- Depression screening includes PHQ-2/PHQ-9 use, PHQ-9 severity-linked management, escalation/referral criteria, and suicide follow-up prompts.
+- Mood review includes PMDD treatment, expanded bipolar treatment, and psychotic versus non-psychotic grandiosity examples.
 - Sections collapse individually; Collapse All and Expand All are available at the top.
 - Search opens matching sections automatically. Press / to focus search and Escape to clear.
 - The larger-text preference, collapsed sections, notes, and study progress are saved locally.

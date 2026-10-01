@@ -17,9 +17,10 @@ Keep the `assets` folder, icons, manifest, and service worker in their existing 
 ## Included features
 
 - Unified disorder cards with DSM-5 diagnostic criteria and clinical information
+- High-yield epidemiology, etiology, risk, course, comorbidity, and age-presentation notes from the supplied lectures
 - Collapsible required-symptom checklists
 - Collapsible subtype and specifier guides
-- Search, filters, quizzes, flashcards, notes, and saved progress
+- PHQ-9 severity management, suicide follow-up, referral/escalation guidance, PMDD treatment, and expanded bipolar treatment
+- Search, filters, flashcards, notes, and saved progress
 - Pastel/kawaii styling and five original illustrations
 - Installable/offline Progressive Web App support
-
