@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="TIM I Psychiatry flower icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffdce9"/>
+      <stop offset="0.5" stop-color="#e5dcff"/>
+      <stop offset="1" stop-color="#d9f4e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="118" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="175" fill="#fff" fill-opacity="0.62"/>
+  <circle cx="256" cy="248" r="148" fill="#8c709e" opacity="0.14"/>
+  <g>
+    <ellipse cx="256" cy="151" rx="58" ry="112" fill="#f7aeca"/>
+    <ellipse cx="256" cy="151" rx="58" ry="112" transform="rotate(72 256 236)" fill="#aebbe9"/>
+    <ellipse cx="256" cy="151" rx="58" ry="112" transform="rotate(144 256 236)" fill="#9fdac3"/>
+    <ellipse cx="256" cy="151" rx="58" ry="112" transform="rotate(216 256 236)" fill="#f5d38f"/>
+    <ellipse cx="256" cy="151" rx="58" ry="112" transform="rotate(288 256 236)" fill="#ceb2ea"/>
+    <circle cx="256" cy="236" r="72" fill="#fff7d6"/>
+    <circle cx="232" cy="228" r="7" fill="#5f5470"/>
+    <circle cx="280" cy="228" r="7" fill="#5f5470"/>
+    <path d="M237 256 Q256 274 275 256" fill="none" stroke="#5f5470" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text x="256" y="455" text-anchor="middle" font-family="system-ui, sans-serif" font-size="45" font-weight="800" fill="#655777">TIM I</text>
+</svg>

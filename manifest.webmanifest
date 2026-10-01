@@ -1,0 +1,26 @@
+{
+  "name": "TIM I Psychiatry High Yield Study Guide",
+  "short_name": "TIM I Psych",
+  "description": "Interactive syllabus-filtered psychiatry review using the supplied DSM-5 and CMDT 2026 chapters.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff9fc",
+  "theme_color": "#f4d9e8",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
