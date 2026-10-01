@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="TIM I Psychiatry flower icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="TIM I Psychiatry pastel brain icon">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#ffdce9"/>
@@ -7,18 +7,15 @@
     </linearGradient>
   </defs>
   <rect width="512" height="512" rx="118" fill="url(#bg)"/>
-  <circle cx="256" cy="256" r="175" fill="#fff" fill-opacity="0.62"/>
-  <circle cx="256" cy="248" r="148" fill="#8c709e" opacity="0.14"/>
-  <g>
-    <ellipse cx="256" cy="151" rx="58" ry="112" fill="#f7aeca"/>
-    <ellipse cx="256" cy="151" rx="58" ry="112" transform="rotate(72 256 236)" fill="#aebbe9"/>
-    <ellipse cx="256" cy="151" rx="58" ry="112" transform="rotate(144 256 236)" fill="#9fdac3"/>
-    <ellipse cx="256" cy="151" rx="58" ry="112" transform="rotate(216 256 236)" fill="#f5d38f"/>
-    <ellipse cx="256" cy="151" rx="58" ry="112" transform="rotate(288 256 236)" fill="#ceb2ea"/>
-    <circle cx="256" cy="236" r="72" fill="#fff7d6"/>
-    <circle cx="232" cy="228" r="7" fill="#5f5470"/>
-    <circle cx="280" cy="228" r="7" fill="#5f5470"/>
-    <path d="M237 256 Q256 274 275 256" fill="none" stroke="#5f5470" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="256" cy="245" r="178" fill="#fff" fill-opacity="0.64"/>
+  <g stroke="#745f86" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M250 131c-34-31-88-7-86 39-35 5-48 50-25 75-23 26-8 70 27 74 2 43 53 62 84 32z" fill="#f6b3d2"/>
+    <path d="M262 131c34-31 88-7 86 39 35 5 48 50 25 75 23 26 8 70-27 74-2 43-53 62-84 32z" fill="#c9b8ec"/>
+    <path d="M250 151v184M262 151v184" fill="none"/>
+    <path d="M205 163c-19 9-26 30-18 48M169 233c18-12 43-7 54 11M184 300c7-19 27-29 46-23M307 163c19 9 26 30 18 48M343 233c-18-12-43-7-54 11M328 300c-7-19-27-29-46-23" fill="none"/>
+    <circle cx="221" cy="228" r="6" fill="#5f5470" stroke="none"/>
+    <circle cx="291" cy="228" r="6" fill="#5f5470" stroke="none"/>
+    <path d="M231 263q25 22 50 0" fill="none" stroke-width="7"/>
   </g>
   <text x="256" y="455" text-anchor="middle" font-family="system-ui, sans-serif" font-size="45" font-weight="800" fill="#655777">TIM I</text>
 </svg>

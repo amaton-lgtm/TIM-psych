@@ -16,7 +16,8 @@ Keep the `assets` folder, icons, manifest, and service worker in their existing 
 
 ## Included features
 
-- Unified disorder cards with DSM-5 diagnostic criteria and clinical information
+- 48 disorder cards with DSM-5 diagnostic criteria and clinical information
+- Ten individual personality-disorder cards with DSM thresholds, lecture mnemonic names, epidemiology, presentation clues, differential diagnosis, and management
 - High-yield epidemiology, etiology, risk, course, comorbidity, and age-presentation notes from the supplied lectures
 - Collapsible required-symptom checklists
 - Collapsible subtype and specifier guides
@@ -24,5 +25,6 @@ Keep the `assets` folder, icons, manifest, and service worker in their existing 
 - “This, not that” differential charts and source-supported proposed pathophysiology panels
 - PHQ-9 severity management, suicide follow-up, referral/escalation guidance, PMDD treatment, and expanded bipolar treatment
 - Search with pastel-pink term highlighting, filters, flashcards, notes, and saved progress
-- Pastel/kawaii styling and five original illustrations
+- Neurodevelopmental and sleep-wake lecture supplements, including added OSA and restless-legs cards and expanded lecture flashcards
+- Pastel/kawaii styling, a brain app icon, and five original illustrations
 - Installable/offline Progressive Web App support
