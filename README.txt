@@ -32,7 +32,9 @@ USABILITY FEATURES
 - DSM cards with named subtypes or specifiers include a nested, collapsible definition guide.
 - Depression screening includes PHQ-2/PHQ-9 use, PHQ-9 severity-linked management, escalation/referral criteria, and suicide follow-up prompts.
 - Mood review includes PMDD treatment, expanded bipolar treatment, and psychotic versus non-psychotic grandiosity examples.
+- Specific phobia, social anxiety disorder, and agoraphobia have separate full cards; anxiety treatment is organized by first line, second line, and adjunct role.
+- “This, not that” charts compare commonly confused disorders, and source-supported proposed pathophysiology appears only where the lectures provide it.
 - Sections collapse individually; Collapse All and Expand All are available at the top.
-- Search opens matching sections automatically. Press / to focus search and Escape to clear.
+- Search opens matching sections and nested panels automatically and highlights the exact term in pastel pink. Press / to focus search and Escape to clear.
 - The larger-text preference, collapsed sections, notes, and study progress are saved locally.
 - Five original kawaii illustrations provide visual breaks without adding clinical content.
