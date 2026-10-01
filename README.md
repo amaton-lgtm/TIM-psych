@@ -25,6 +25,8 @@ Keep the `assets` folder, icons, manifest, and service worker in their existing 
 - “This, not that” differential charts and source-supported proposed pathophysiology panels
 - PHQ-9 severity management, suicide follow-up, referral/escalation guidance, PMDD treatment, and expanded bipolar treatment
 - Search with pastel-pink term highlighting, filters, flashcards, notes, and saved progress
+- A persistent 10-category, 20-question review tracker with saved best scores and explanations revealed after submission
+- First-use acronym expansions, lecture-based autism ABCDE criteria, expanded ADHD questionnaires/PTBM, and medication brand names
 - Neurodevelopmental and sleep-wake lecture supplements, including added OSA and restless-legs cards and expanded lecture flashcards
 - Pastel/kawaii styling, a brain app icon, and five original illustrations
 - Installable/offline Progressive Web App support
