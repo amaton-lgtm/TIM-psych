@@ -30,12 +30,12 @@ USABILITY FEATURES
 - Relevant cards include collapsible high-yield epidemiology, etiology, risk, course, comorbidity, and age-presentation notes from the lecture decks.
 - Count-based diagnostic criteria include collapsible required-symptom checklists.
 - DSM cards with named subtypes or specifiers include a nested, collapsible definition guide.
-- All ten personality disorders have individual cards with DSM thresholds, lecture mnemonic names, epidemiology, presentation clues, differential diagnosis, and management; the cluster overview is retained.
+- All ten personality disorders have individual cards with DSM thresholds, fully spelled-out lecture mnemonics, epidemiology, presentation clues, differential diagnosis, and management; the cluster overview is retained.
 - Depression screening includes PHQ-2/PHQ-9 use, PHQ-9 severity-linked management, escalation/referral criteria, and suicide follow-up prompts.
 - Mood review includes PMDD treatment, expanded bipolar treatment, and psychotic versus non-psychotic grandiosity examples.
 - Specific phobia, social anxiety disorder, and agoraphobia have separate full cards; anxiety treatment is organized by first line, second line, and adjunct role.
 - OSA and restless legs syndrome have full cards; ASD, ADHD, ODD/conduct, insomnia, and narcolepsy include new lecture-based detail and flashcards.
-- A 10-category, 20-question review tracker saves completion and best scores locally; answer explanations appear only after submission.
+- A 10-category, 148-question review tracker saves completion and best scores locally; answer explanations appear only after submission. Nine categories have 15 questions; Somatic & eating has 13 until that lecture is added.
 - Acronyms are expanded on first use, autism uses the lecture ABCDE checklist, ADHD includes the lecture questionnaires and PTBM skills, and generic medication names display brand names in parentheses.
 - “This, not that” charts compare commonly confused disorders, and source-supported proposed pathophysiology appears only where the lectures provide it.
 - Sections collapse individually; Collapse All and Expand All are available at the top.
