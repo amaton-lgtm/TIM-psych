@@ -35,9 +35,11 @@ USABILITY FEATURES
 - Mood review includes PMDD treatment, expanded bipolar treatment, and psychotic versus non-psychotic grandiosity examples.
 - Specific phobia, social anxiety disorder, and agoraphobia have separate full cards; anxiety treatment is organized by first line, second line, and adjunct role.
 - OSA and restless legs syndrome have full cards; ASD, ADHD, ODD/conduct, insomnia, and narcolepsy include new lecture-based detail and flashcards.
-- A 10-category, 148-question review tracker saves completion and best scores locally; answer explanations appear only after submission. Nine categories have 15 questions; Somatic & eating has 13 until that lecture is added.
+- A 10-category, 150-question review tracker saves completion and best scores locally; every category has 15 questions and answer explanations appear only after submission.
 - Acronyms are expanded on first use, autism uses the lecture ABCDE checklist, ADHD includes the lecture questionnaires and PTBM skills, and generic medication names display brand names in parentheses.
-- “This, not that” charts compare commonly confused disorders, and source-supported proposed pathophysiology appears only where the lectures provide it.
+- “This, not that” charts include four personality-disorder comparisons and schizoaffective depressive/bipolar types versus mood disorders with psychotic features.
+- Illness Anxiety Disorder has a standalone card with its full required-feature checklist and care-seeking/care-avoidant types.
+- Source-supported proposed pathophysiology appears only where the lectures provide it.
 - Sections collapse individually; Collapse All and Expand All are available at the top.
 - Search opens matching sections and nested panels automatically and highlights the exact term in pastel pink. Press / to focus search and Escape to clear.
 - The larger-text preference, collapsed sections, notes, and study progress are saved locally.
