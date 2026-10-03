@@ -22,7 +22,7 @@ Keep the `assets` folder, icons, manifest, and service worker in their existing 
 - Collapsible required-symptom checklists
 - Collapsible subtype and specifier guides
 - Separate Specific Phobia, Social Anxiety Disorder, and Agoraphobia cards with diagnostic criteria, epidemiology, and tiered treatment
-- A compact single-chart “This, not that” selector—including four personality comparisons and two schizoaffective-versus-mood-disorder comparisons—and source-supported proposed pathophysiology panels
+- A compact single-chart “This, not that” selector—including the supplied four-column anxiety/OCD table, personality and bipolar comparisons, and two schizoaffective-versus-mood-disorder comparisons—and source-supported proposed pathophysiology panels
 - A standalone Illness Anxiety Disorder card with its full required-feature checklist and care-seeking/care-avoidant types
 - PHQ-9 severity management, suicide follow-up, referral/escalation guidance, PMDD treatment, and expanded bipolar treatment
 - Search with pastel-pink term highlighting, filters, flashcards, notes, and saved progress
@@ -30,5 +30,6 @@ Keep the `assets` folder, icons, manifest, and service worker in their existing 
 - First-use acronym expansions, lecture-based autism ABCDE criteria, expanded ADHD questionnaires/PTBM, and medication brand names
 - Neurodevelopmental and sleep-wake lecture supplements, including added OSA and restless-legs cards and expanded lecture flashcards
 - Streamlined diagnosis cards that keep formal criteria in the diagnostic framework and reserve clinical panels for additive presentation, workup, and management details
+- Expanded DSM-5 delusional-disorder severity instructions, adjustment-disorder stressor examples, and a two-column GET/FACT mnemonic layout
 - Pastel/kawaii styling, a brain app icon, and five original illustrations
 - Installable/offline Progressive Web App support
