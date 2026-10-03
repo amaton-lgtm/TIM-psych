@@ -1,4 +1,4 @@
-const CACHE_NAME='timi-psychiatry-v16';
+const CACHE_NAME='timi-psychiatry-v17';
 const APP_SHELL=[
   './',
   './index.html',

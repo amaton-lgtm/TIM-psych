@@ -26,7 +26,7 @@ lecture shorthand differs.
 
 USABILITY FEATURES
 - Source-emphasized thresholds, safety findings, and first-line treatments are bolded.
-- Diagnostic thresholds and clinical recognition, workup, and management share one disorder card.
+- Diagnostic thresholds and clinical recognition, workup, and management share one disorder card, with repeated criterion language removed from the clinical panel.
 - Relevant cards include collapsible high-yield epidemiology, etiology, risk, course, comorbidity, and age-presentation notes from the lecture decks.
 - Count-based diagnostic criteria include collapsible required-symptom checklists.
 - DSM cards with named subtypes or specifiers include a nested, collapsible definition guide.
@@ -37,7 +37,7 @@ USABILITY FEATURES
 - OSA and restless legs syndrome have full cards; ASD, ADHD, ODD/conduct, insomnia, and narcolepsy include new lecture-based detail and flashcards.
 - A 10-category, 150-question review tracker saves completion and best scores locally; every category has 15 questions and answer explanations appear only after submission.
 - Acronyms are expanded on first use, autism uses the lecture ABCDE checklist, ADHD includes the lecture questionnaires and PTBM skills, and generic medication names display brand names in parentheses.
-- “This, not that” charts include four personality-disorder comparisons and schizoaffective depressive/bipolar types versus mood disorders with psychotic features.
+- A compact single-chart selector presents the “This, not that” comparisons without a long collapsed list; it includes four personality-disorder comparisons and schizoaffective depressive/bipolar types versus mood disorders with psychotic features.
 - Illness Anxiety Disorder has a standalone card with its full required-feature checklist and care-seeking/care-avoidant types.
 - Source-supported proposed pathophysiology appears only where the lectures provide it.
 - Sections collapse individually; Collapse All and Expand All are available at the top.
