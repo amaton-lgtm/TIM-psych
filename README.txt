@@ -30,12 +30,12 @@ USABILITY FEATURES
 - Relevant cards include collapsible high-yield epidemiology, etiology, risk, course, comorbidity, and age-presentation notes from the lecture decks.
 - Count-based diagnostic criteria include collapsible required-symptom checklists.
 - DSM cards with named subtypes or specifiers include a nested, collapsible definition guide.
-- All ten personality disorders have individual cards with DSM thresholds, fully spelled-out lecture mnemonics, epidemiology, presentation clues, differential diagnosis, and management; the cluster overview is retained.
+- All ten personality disorders have individual cards labeled Cluster A, B, or C, with DSM thresholds, fully spelled-out lecture mnemonics arranged into labeled word columns, epidemiology, presentation clues, differential diagnosis, and management; the cluster overview is retained.
 - Depression screening includes PHQ-2/PHQ-9 use, PHQ-9 severity-linked management, escalation/referral criteria, and suicide follow-up prompts.
 - Mood review includes PMDD treatment, expanded bipolar treatment, and psychotic versus non-psychotic grandiosity examples.
 - Specific phobia, social anxiety disorder, and agoraphobia have separate full cards; anxiety treatment is organized by first line, second line, and adjunct role.
-- OSA and restless legs syndrome have full cards; ASD, ADHD, ODD/conduct, insomnia, and narcolepsy include new lecture-based detail and flashcards.
-- A 10-category, 150-question review tracker saves completion and best scores locally; every category has 15 questions and answer explanations appear only after submission.
+- OSA, restless legs syndrome, NREM sleep arousal disorders, nightmare disorder, and REM sleep behavior disorder have full cards; ASD, ADHD, ODD/conduct, insomnia, and narcolepsy include lecture-based detail and flashcards.
+- A 10-category, 160-question review tracker saves completion and best scores locally; every category has at least 15 questions, the sleep-wake category has 25, and answer explanations appear only after submission.
 - Acronyms are expanded on first use, autism uses the lecture ABCDE checklist, ADHD includes the lecture questionnaires and PTBM skills, and generic medication names display brand names in parentheses.
 - A compact single-chart selector presents the “This, not that” comparisons without a long collapsed list; it includes the supplied four-column anxiety/OCD table, personality and bipolar comparisons, and schizoaffective depressive/bipolar types versus mood disorders with psychotic features.
 - Illness Anxiety Disorder has a standalone card with its full required-feature checklist and care-seeking/care-avoidant types.

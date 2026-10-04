@@ -16,8 +16,8 @@ Keep the `assets` folder, icons, manifest, and service worker in their existing 
 
 ## Included features
 
-- 49 disorder cards with DSM-5 diagnostic criteria and clinical information
-- Ten individual personality-disorder cards with DSM thresholds, fully spelled-out lecture mnemonics, epidemiology, presentation clues, differential diagnosis, and management
+- 52 disorder cards with DSM-5 diagnostic criteria and clinical information
+- Ten individual personality-disorder cards with DSM thresholds, fully spelled-out lecture mnemonics arranged into labeled word columns, epidemiology, presentation clues, differential diagnosis, and management
 - High-yield epidemiology, etiology, risk, course, comorbidity, and age-presentation notes from the supplied lectures
 - Collapsible required-symptom checklists
 - Collapsible subtype and specifier guides
@@ -26,9 +26,11 @@ Keep the `assets` folder, icons, manifest, and service worker in their existing 
 - A standalone Illness Anxiety Disorder card with its full required-feature checklist and care-seeking/care-avoidant types
 - PHQ-9 severity management, suicide follow-up, referral/escalation guidance, PMDD treatment, and expanded bipolar treatment
 - Search with pastel-pink term highlighting, filters, flashcards, notes, and saved progress
-- A persistent 10-category, 150-question review tracker with 15 questions per category, saved best scores, and explanations revealed after submission
+- A persistent 10-category, 160-question review tracker with at least 15 questions per category, including 25 sleep-wake questions, saved best scores, and explanations revealed after submission
 - First-use acronym expansions, lecture-based autism ABCDE criteria, expanded ADHD questionnaires/PTBM, and medication brand names
 - Neurodevelopmental and sleep-wake lecture supplements, including added OSA and restless-legs cards and expanded lecture flashcards
+- Separate NREM sleep-arousal, nightmare-disorder, and REM sleep-behavior cards with a side-by-side parasomnia comparison and additional active-recall content
+- Cluster A, B, or C labels on every individual personality-disorder card
 - Streamlined diagnosis cards that keep formal criteria in the diagnostic framework and reserve clinical panels for additive presentation, workup, and management details
 - Expanded DSM-5 delusional-disorder severity instructions, adjustment-disorder stressor examples, and a two-column GET/FACT mnemonic layout
 - Pastel/kawaii styling, a brain app icon, and five original illustrations
