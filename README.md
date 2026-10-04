@@ -1,6 +1,6 @@
 # TIM I Psychiatry Study App
 
-An interactive, pastel/kawaii psychiatry study guide built from the course syllabus and the approved supplied sources.
+An interactive, pastel/kawaii psychiatry study guide built from the course syllabus and supplied approved sources, with clearly separated PANCE-level supplements for documented source gaps.
 
 ## Publish with GitHub Pages
 
@@ -26,7 +26,8 @@ Keep the `assets` folder, icons, manifest, and service worker in their existing 
 - A standalone Illness Anxiety Disorder card with its full required-feature checklist and care-seeking/care-avoidant types
 - PHQ-9 severity management, suicide follow-up, referral/escalation guidance, PMDD treatment, and expanded bipolar treatment
 - Search with pastel-pink term highlighting, filters, flashcards, notes, and saved progress
-- A persistent 10-category, 160-question review tracker with at least 15 questions per category, including 25 sleep-wake questions, saved best scores, and explanations revealed after submission
+- A persistent 10-category, 165-question review tracker with at least 15 questions per category, including 25 sleep-wake questions, saved best scores, and explanations revealed after submission
+- Gold PANCE-level supplement panels that fill documented gaps in eating-disorder stabilization/treatment, dissociative-disorder management, and sodium-oxybate safety while preserving source boundaries
 - First-use acronym expansions, lecture-based autism ABCDE criteria, expanded ADHD questionnaires/PTBM, and medication brand names
 - Neurodevelopmental and sleep-wake lecture supplements, including added OSA and restless-legs cards and expanded lecture flashcards
 - Separate NREM sleep-arousal, nightmare-disorder, and REM sleep-behavior cards with a side-by-side parasomnia comparison and additional active-recall content
