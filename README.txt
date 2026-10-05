@@ -18,8 +18,10 @@ service worker when opened. Browser-stored notes and progress remain on that
 device as long as the app URL and browser storage are not cleared.
 
 SOURCES AND CONTENT
-The guide is limited to the supplied syllabus, DSM-5, CMDT 2026 Chapters 28
-and 48, and nine supplied lecture decks. Lecture pearls and mnemonics cover
+The guide primarily uses the supplied syllabus, DSM-5, CMDT 2026 Chapters 28
+and 48, and nine supplied lecture decks. Clearly labeled gold PANCE-level
+supplement panels use authoritative outside guidance to fill documented source gaps.
+Lecture pearls and mnemonics cover
 mood, anxiety/OCD, trauma/stress, somatic/dissociative, psychotic, personality,
 neurodevelopmental, and sleep-wake disorders. DSM-5 controls exact diagnostic thresholds where
 lecture shorthand differs.
@@ -35,12 +37,14 @@ USABILITY FEATURES
 - Mood review includes PMDD treatment, expanded bipolar treatment, and psychotic versus non-psychotic grandiosity examples.
 - Specific phobia, social anxiety disorder, and agoraphobia have separate full cards; anxiety treatment is organized by first line, second line, and adjunct role.
 - OSA, restless legs syndrome, NREM sleep arousal disorders, nightmare disorder, and REM sleep behavior disorder have full cards; ASD, ADHD, ODD/conduct, insomnia, and narcolepsy include lecture-based detail and flashcards.
-- A 10-category, 160-question review tracker saves completion and best scores locally; every category has at least 15 questions, the sleep-wake category has 25, and answer explanations appear only after submission.
+- A 10-category, 165-question review tracker saves completion and best scores locally; every category has at least 15 questions, the sleep-wake category has 25, and answer explanations appear only after submission.
 - Acronyms are expanded on first use, autism uses the lecture ABCDE checklist, ADHD includes the lecture questionnaires and PTBM skills, and generic medication names display brand names in parentheses.
 - A compact single-chart selector presents the “This, not that” comparisons without a long collapsed list; it includes the supplied four-column anxiety/OCD table, personality and bipolar comparisons, and schizoaffective depressive/bipolar types versus mood disorders with psychotic features.
 - Illness Anxiety Disorder has a standalone card with its full required-feature checklist and care-seeking/care-avoidant types.
 - Source-supported proposed pathophysiology appears only where the lectures provide it.
 - Sections collapse individually; Collapse All and Expand All are available at the top.
+- Every diagnosis card has its own Expand/Collapse control and saves that state locally.
+- The somatic-disorders comparison is a responsive intentionality flow map recreated from the supplied course flowchart.
 - Search opens matching sections and nested panels automatically and highlights the exact term in pastel pink. Press / to focus search and Escape to clear.
 - The larger-text preference, collapsed sections, notes, and study progress are saved locally.
 - A pastel brain icon and five original kawaii illustrations provide visual breaks without adding clinical content.
