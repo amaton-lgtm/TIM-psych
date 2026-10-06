@@ -1,7 +1,8 @@
-const CACHE_NAME='timi-psychiatry-v22';
+const CACHE_NAME='timi-psychiatry-v23';
 const APP_SHELL=[
   './',
   './index.html',
+  './pharm-data.js',
   './manifest.webmanifest',
   './app-icon.svg',
   './app-icon-180.png',
