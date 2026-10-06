@@ -28,10 +28,9 @@ Keep the `assets` folder, `pharm-data.js`, icons, manifest, and service worker i
 - A standalone Illness Anxiety Disorder card with its full required-feature checklist and care-seeking/care-avoidant types
 - PHQ-9 severity management, suicide follow-up, referral/escalation guidance, PMDD treatment, and expanded bipolar treatment
 - Search with pastel-pink term highlighting, filters, flashcards, notes, and saved progress
-- A dedicated psychopharmacology objective map, 15 compact class/principle panels, and 96 individually collapsible medication cards covering lecture dose/route, mechanism, indications, adverse effects, cautions, interactions, monitoring, counseling, and patient-selection pearls
-- Medication filters plus an alphabetical jump menu; global search opens matching medication cards and highlights the exact term in pastel pink
+- A dedicated psychopharmacology objective map and 15 compact class/principle panels covering neurotransmitter foundations, treatment selection and sequencing, class-wide safety, and treatment choices by diagnosis
+- The pharmacology section intentionally omits individual medication cards so it remains concise and easy to scan
 - A persistent 10-category, 190-question review tracker with at least 15 questions per category, including 25 sleep-wake questions and 38 medication questions, saved best scores, and explanations revealed after submission
-- 15 additional pharmacology flashcards on switching/augmentation, toxicity patterns, high-yield agent selection, monitoring, and smoking cessation
 - Gold PANCE-level supplement panels that fill documented gaps in eating-disorder stabilization/treatment, dissociative-disorder management, and sodium-oxybate safety while preserving source boundaries
 - First-use acronym expansions, lecture-based autism ABCDE criteria, expanded ADHD questionnaires/PTBM, and medication brand names
 - Neurodevelopmental and sleep-wake lecture supplements, including added OSA and restless-legs cards and expanded lecture flashcards
